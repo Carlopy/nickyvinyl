@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @nickyvinyl
-- 👀 I’m interested in data sciencie projects
-- 🌱 I’m currently learning Python,, SQL, JavaScript
 - 💞️ I’m looking to collaborate on projects related to data Science
 - 📫 How to reach me https://www.facebook.com/carlo.ec2321/     Thats my facebook, contac me there.
 <!---
